@@ -4,12 +4,11 @@ A curated list of static site generators. For more awesomeness, check out <a hre
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome" width="70px">
 </a>
 
+If you'd like to contribute, see [Contribution Guidelines](CONTRIBUTING.md).
 
 ---
 
-Regardless of static sites are only HTML and assets, generators are built on top of some programming language.
-
-Let's try to keep this page organized in sections according to the language generator was made with.
+Let's try to keep this page organized in sections according to the language generator was made with (regardless of static sites are only HTML and assets, generators are built on top of some programming language, right? :bowtie:)
 
 - [Go](#go)
 - [JavaScript](#javascript)
@@ -18,20 +17,22 @@ Let's try to keep this page organized in sections according to the language gene
 
 ## Go
 
-- http://gohugo.io/
+- [Hugo](http://gohugo.io/): A Fast & Modern Static Website Engine. <img src="http://gohugo.io/favicon.ico" alt="Hugo icon" width="20px"> 
 
 
 ## JavaScript
 
-- http://assemble.io/
+- [Assemble](http://assemble.io/): The static site generator for Node.js, Grunt.js and Yeoman. <img src="http://assemble.io/assets/img/light/favicon.ico" alt="Assemble icon" width="20px">
 
 ## PHP
 
-- https://sculpin.io/
+- [Sculpin](https://sculpin.io/): PHP Static Site Generator. <img src="https://sculpin.io/images/jackson/76x76.png" alt="Sculpin icon" width="20px">
 
 ## Ruby
 
-- http://jekyllrb.com/
+- [Jekyll](http://jekyllrb.com/): Transform your plain text into static websites and blogs. <img src="http://jekyllrb.com/favicon.ico" alt="Sculpin icon" width="20px">
+
+---
 
 ## License
 
