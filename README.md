@@ -1,20 +1,15 @@
 # [rogeriopradoj/awesome-static-site-generator](https://github.com/rogeriopradoj/awesome-static-site-generator)
 
-<a href="https://github.com/sindresorhus/awesome">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome" width="70px">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome" width="70px">
+A curated list of static site generators. For more awesomeness, check out <a href="https://github.com/sindresorhus/awesome">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome" width="70px">
 </a>
 
-A curated list of static site generators.
 
 ---
 
 Regardless of static sites are only HTML and assets, generators are built on top of some programming language.
 
 Let's try to keep this page organized in sections according to the language generator was made with.
-
-## Languages
 
 - [Go](#go)
 - [JavaScript](#javascript)
