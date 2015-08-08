@@ -1,4 +1,4 @@
-# [rogeriopradoj/awesome-static-site-generator](https://github.com/rogeriopradoj/awesome-static-site-generator)
+# [rogeriopradoj/awesome-static-site-generator](https://github.com/rogeriopradoj/awesome-static-site-generator) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of static site generators. For more awesomeness, check out <a href="https://github.com/sindresorhus/awesome">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome" width="70px">
