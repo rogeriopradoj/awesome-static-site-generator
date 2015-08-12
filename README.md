@@ -38,7 +38,7 @@ Let's try to keep this page organized in sections according to the language gene
 - [Pelican](http://blog.getpelican.com/): Pelican is a static site generator, written in Python, that requires no database or server-side logic. <img src="https://avatars0.githubusercontent.com/u/2043492?v=3&s=200" alt="Pelican Python" width="20px" height="20px">
 
 
-More Static Sites Generetor made with Python, visit: [https://wiki.python.org/moin/StaticSiteGenerator](https://wiki.python.org/moin/StaticSiteGenerator)
+- More Static Sites Generetor made with Python, visit: [https://wiki.python.org/moin/StaticSiteGenerator](https://wiki.python.org/moin/StaticSiteGenerator)
 ---
 
 ## License
