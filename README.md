@@ -14,10 +14,11 @@ Let's try to keep this page organized in sections according to the language gene
 - [JavaScript](#javascript)
 - [PHP](#php)
 - [Ruby](#ruby)
+- [Python](#python)
 
 ## Go
 
-- [Hugo](http://gohugo.io/): A Fast & Modern Static Website Engine. <img src="http://gohugo.io/favicon.ico" alt="Hugo icon" width="20px"> 
+- [Hugo](http://gohugo.io/): A Fast & Modern Static Website Engine. <img src="http://gohugo.io/favicon.ico" alt="Hugo icon" width="20px">
 
 
 ## JavaScript
@@ -31,6 +32,10 @@ Let's try to keep this page organized in sections according to the language gene
 ## Ruby
 
 - [Jekyll](http://jekyllrb.com/): Transform your plain text into static websites and blogs. <img src="http://jekyllrb.com/favicon.ico" alt="Sculpin icon" width="20px">
+
+## Python
+
+- [Pelican](http://blog.getpelican.com/): Pelican is a static site generator, written in Python, that requires no database or server-side logic. <img src="https://avatars0.githubusercontent.com/u/2043492?v=3&s=200" alt="Pelican Python" width="20px" height="20px">
 
 ---
 
