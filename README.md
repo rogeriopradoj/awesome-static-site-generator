@@ -24,6 +24,7 @@ Let's try to keep this page organized in sections according to the language gene
 ## JavaScript
 
 - [Assemble](http://assemble.io/): The static site generator for Node.js, Grunt.js and Yeoman. <img src="http://assemble.io/assets/img/light/favicon.ico" alt="Assemble icon" width="20px">
+- [Cuttlebelle](https://cuttlebelle.com/): The react static site generator that separates editing and code concerns. <img src="https://cuttlebelle.com/assets/favicon.ico" alt="Cuttlebelle icon" width="20px">
 
 ## PHP
 
